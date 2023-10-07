@@ -1,0 +1,5 @@
+# Unnessary IDE/Project Information
+.idea/
+
+# Removes Builds from Git
+book/
